@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>text.txt</StartArguments>
+    <StartWorkingDirectory>D:\Code\kfuHomework\07.10.2023\homework07102023\Part1\</StartWorkingDirectory>
+  </PropertyGroup>
+</Project>

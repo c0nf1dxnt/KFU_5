@@ -1,7 +1,7 @@
-D:\Code\kfuHomework\07.10.2023\homework07102023\Part1\obj\Debug\Part1.csproj.AssemblyReference.cache
-D:\Code\kfuHomework\07.10.2023\homework07102023\Part1\obj\Debug\Part1.csproj.CoreCompileInputs.cache
 D:\Code\kfuHomework\07.10.2023\homework07102023\Part1\bin\Debug\Part1.exe.config
 D:\Code\kfuHomework\07.10.2023\homework07102023\Part1\bin\Debug\Part1.exe
 D:\Code\kfuHomework\07.10.2023\homework07102023\Part1\bin\Debug\Part1.pdb
+D:\Code\kfuHomework\07.10.2023\homework07102023\Part1\obj\Debug\Part1.csproj.AssemblyReference.cache
+D:\Code\kfuHomework\07.10.2023\homework07102023\Part1\obj\Debug\Part1.csproj.CoreCompileInputs.cache
 D:\Code\kfuHomework\07.10.2023\homework07102023\Part1\obj\Debug\Part1.exe
 D:\Code\kfuHomework\07.10.2023\homework07102023\Part1\obj\Debug\Part1.pdb
